@@ -1,0 +1,1 @@
+Idk ig this is my shit SEND TO ANYONE YOU FUCKED cause this is decomiumptioned so i can see who has it or who sent it and where.

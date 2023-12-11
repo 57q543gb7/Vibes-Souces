@@ -1,0 +1,1 @@
+fetch("https://econ.rec.net/api/gift/v1/openandmergeallconsumablegifts",{headers:{authorization:`Bearer ${JSON.parse(localStorage.getItem("oidc.user:https://auth.rec.net:recnet")).access_token}`},method:"POST"});

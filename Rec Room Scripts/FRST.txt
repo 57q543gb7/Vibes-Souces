@@ -1,0 +1,163 @@
+Scan result of Farbar Recovery Scan Tool (FRST) (x64) Version: 06-10-2023
+Ran by ban efade (administrator) on Desktop-HBD58 (ASUS All Series) (17-10-2023 17:23:32)
+Running from C:\Users\ban efade\Downloads\FRST64.exe
+Loaded Profiles: ban efade
+Platform: Microsoft Windows 10 Pro Version 22H2 19045.3570 (X64) Language: English (United Kingdom)
+Default browser: Edge
+Boot Mode: Normal
+
+==================== Processes (Whitelisted) =================
+
+(If an entry is included in the fixlist, the process will be closed. The file will not be moved.)
+
+() [File not signed] [File is in use] C:\Program Files (x86)\Steam\steamapps\common\RecRoom\RecRoom.exe
+(C:\Program Files (x86)\Steam\steam.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe <7>
+(C:\Program Files (x86)\Steam\steam.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Steam\GameOverlayUI.exe
+(C:\Program Files (x86)\Steam\steamapps\common\RecRoom\RecRoom.exe ->) (Unity Technologies ApS -> ) C:\Program Files (x86)\Steam\steamapps\common\RecRoom\UnityCrashHandler64.exe
+(C:\Program Files\Malwarebytes\Anti-Malware\MBAMService.exe ->) (Malwarebytes Inc. -> Malwarebytes) C:\Program Files\Malwarebytes\Anti-Malware\mbamtray.exe
+(C:\Program Files\Oculus\Support\oculus-runtime\OVRServiceLauncher.exe ->) (Oculus VR, LLC -> Facebook Technologies, LLC) C:\Program Files\Oculus\Support\oculus-runtime\OVRRedir.exe
+(C:\Program Files\Oculus\Support\oculus-runtime\OVRServiceLauncher.exe ->) (Oculus VR, LLC -> Facebook Technologies, LLC) C:\Program Files\Oculus\Support\oculus-runtime\OVRServer_x64.exe
+(Discord Inc. -> Discord Inc.) C:\Users\ban efade\AppData\Local\Discord\app-1.0.9019\Discord.exe <6>
+(explorer.exe ->) (Malwarebytes Inc. -> Malwarebytes) C:\Program Files\Malwarebytes\Anti-Malware\mbam.exe
+(explorer.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe <36>
+(explorer.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Steam\steam.exe
+(explorer.exe ->) (Voicemod Sociedad Limitada -> Voicemod) C:\Program Files\Voicemod Desktop\VoicemodDesktop.exe <6>
+(Google LLC -> Google LLC) C:\Program Files (x86)\Google\Update\1.3.36.312\GoogleCrashHandler.exe
+(Google LLC -> Google LLC) C:\Program Files (x86)\Google\Update\1.3.36.312\GoogleCrashHandler64.exe
+(Microsoft Windows -> Microsoft Corporation) C:\Windows\SysWOW64\dllhost.exe
+(services.exe ->) () [File not signed] C:\Windows\System32\ServiceUI.exe
+(services.exe ->) (Broadcom Corporation -> Broadcom Corporation.) C:\Windows\System32\BtwRSupportService.exe
+(services.exe ->) (EasyAntiCheat Oy -> Epic Games, Inc) C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe
+(services.exe ->) (Malwarebytes Inc. -> Malwarebytes) C:\Program Files\Malwarebytes\Anti-Malware\MBAMService.exe
+(services.exe ->) (Microsoft Windows Publisher -> Microsoft Corporation) C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\MsMpEng.exe
+(services.exe ->) (Microsoft Windows Publisher -> Microsoft Corporation) C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\NisSrv.exe
+(services.exe ->) (NVIDIA Corporation -> NVIDIA Corporation) C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_8c8de08a85de4474\Display.NvContainer\NVDisplay.Container.exe <2>
+(services.exe ->) (Oculus VR, LLC -> Facebook Technologies, LLC) C:\Program Files\Oculus\Support\oculus-runtime\OVRServiceLauncher.exe
+(services.exe ->) (Pango LLC -> Pango Inc.) C:\Program Files (x86)\Hotspot Shield\12.4.0\bin\cmw_srv.exe
+(services.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Common Files\Steam\steamservice.exe
+(ServiceUI.exe ->) () [File not signed] C:\Windows\System32\UITheme.exe
+(svchost.exe ->) (453637B3-4E12-4CDF-B0D3-2A3C863BF6EF -> ) C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.222.982.0_x64__zpdnekdrzrea0\XboxGameBarSpotify.exe
+(svchost.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_6.123.10052.0_x64__8wekyb3d8bbwe\GameBar.exe
+(svchost.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_6.123.10052.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\dllhost.exe
+
+==================== Registry (Whitelisted) ===================
+
+(If an entry is included in the fixlist, the registry item will be restored to default or removed. The file will not be moved.)
+
+HKU\S-1-5-21-1342728686-2043332895-3295997050-1001\...\Run: [MicrosoftEdgeAutoLaunch_1FB156E677FB9BFE8DB1AFBE1867957D] => "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5 [4131264 2023-10-13] (Microsoft Corporation -> Microsoft Corporation)
+HKU\S-1-5-21-1342728686-2043332895-3295997050-1001\...\Run: [Steam] => C:\Program Files (x86)\Steam\steam.exe [4375912 2023-09-29] (Valve Corp. -> Valve Corporation)
+HKU\S-1-5-21-1342728686-2043332895-3295997050-1001\...\Run: [Discord] => C:\Users\ban efade\AppData\Local\Discord\Update.exe [1525024 2023-09-18] (Discord Inc. -> GitHub)
+HKU\S-1-5-21-1342728686-2043332895-3295997050-1001\...\Run: [Voicemod] => C:\Program Files\Voicemod Desktop\VoicemodDesktop.exe [7472520 2023-09-25] (Voicemod Sociedad Limitada -> Voicemod)
+HKU\S-1-5-21-1342728686-2043332895-3295997050-1001\...\Run: [Overwolf] => C:\Program Files (x86)\Overwolf\OverwolfLauncher.exe [1785864 2023-10-03] (Overwolf Ltd -> Overwolf Ltd.)
+HKU\S-1-5-21-1342728686-2043332895-3295997050-1001\...\Run: [iVCam] => C:\Program Files\e2eSoft\iVCam\iVCam.exe /silent (No File)
+HKLM\Software\Microsoft\Active Setup\Installed Components: [{8A69D345-D564-463c-AFF1-A69D9E530F96}] -> C:\Program Files\Google\Chrome\Application\118.0.5993.71\Installer\chrmstp.exe [2023-10-17] (Google LLC -> Google LLC)
+
+==================== Scheduled Tasks (Whitelisted) =================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+Task: {518800CC-5889-4029-BE46-3767DDB3E208} - System32\Tasks\GoogleUpdateTaskMachineCore{9AF245C1-6C1E-4AD5-9780-9DF20D4709DE} => C:\Program Files (x86)\Google\Update\GoogleUpdate.exe [162080 2023-09-28] (Google LLC -> Google LLC)
+Task: {B8287E73-456A-4774-9328-BFAC9AC03675} - System32\Tasks\GoogleUpdateTaskMachineUA{6751ABEA-A4FE-4A61-9374-4ADEEC247CDA} => C:\Program Files (x86)\Google\Update\GoogleUpdate.exe [162080 2023-09-28] (Google LLC -> Google LLC)
+Task: {DB43752E-F1D3-442E-BCA1-F5F026CF03A9} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Cache Maintenance => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\MpCmdRun.exe [1596304 2023-09-28] (Microsoft Windows Publisher -> Microsoft Corporation)
+Task: {20603FEC-CB33-4021-9013-685EFEDA929C} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Cleanup => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\MpCmdRun.exe [1596304 2023-09-28] (Microsoft Windows Publisher -> Microsoft Corporation)
+Task: {BD5984E2-267B-440F-88DE-AA50A7BB0778} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Scheduled Scan => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\MpCmdRun.exe [1596304 2023-09-28] (Microsoft Windows Publisher -> Microsoft Corporation)
+Task: {19E63715-F9D0-4A50-A625-D18AB5DD9816} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Verification => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\MpCmdRun.exe [1596304 2023-09-28] (Microsoft Windows Publisher -> Microsoft Corporation)
+Task: {78018F53-64F5-4A9E-B02D-11B204184E10} - System32\Tasks\npcapwatchdog => C:\Program Files\Npcap\CheckStatus.bat [815 2022-08-18] () [File not signed]
+Task: {A3EB339C-1025-4AD2-A077-C8094EF71B50} - System32\Tasks\Opera GX scheduled Autoupdate 1696165025 => C:\Users\ban efade\AppData\Local\Programs\Opera GX\launcher.exe  --scheduledautoupdate $(Arg0) (No File)
+Task: {09B4DFED-FA0B-4479-9533-1B59604FAF14} - System32\Tasks\Opera scheduled assistant Autoupdate 1696776337 => C:\Users\ban efade\AppData\Local\Programs\Opera\launcher.exe  -> --scheduledautoupdate --component-name=assistant --component-path="C:\Users\ban efade\AppData\Local\Programs\Opera\assistant" $(Arg0)
+Task: {60AE18B9-7AA5-4767-906A-6A71D95DEC86} - System32\Tasks\Opera scheduled Autoupdate 1696776332 => C:\Users\ban efade\AppData\Local\Programs\Opera\launcher.exe  --scheduledautoupdate $(Arg0) (No File)
+Task: {C9F61DB0-3989-49BC-8B35-837975D853C5} - System32\Tasks\Overwolf Updater Task => C:\Program Files (x86)\Common Files\Overwolf\OverwolfUpdater.exe [2641416 2023-10-03] (Overwolf Ltd -> Overwolf LTD)
+
+(If an entry is included in the fixlist, the task (.job) file will be moved. The file which is running by the task will not be moved.)
+
+
+==================== Internet (Whitelisted) ====================
+
+(If an item is included in the fixlist, if it is a registry item it will be removed or restored to default.)
+
+Tcpip\Parameters: [DhcpNameServer] 192.168.0.1
+Tcpip\..\Interfaces\{0e714e4b-8f37-4938-964a-073faff8747e}: [DhcpNameServer] 192.168.0.1
+Tcpip\..\Interfaces\{91b8fbad-a1f0-40f3-8775-13ceb9c10e73}: [DhcpNameServer] 192.168.0.1
+Tcpip\..\Interfaces\{cb9c6b0b-90ad-4961-9080-32a6a42375e4}: [NameServer] 8.8.8.8
+HKLM\SOFTWARE\Policies\Microsoft\Internet Explorer: Restriction <==== ATTENTION
+
+Edge: 
+=======
+Edge DefaultProfile: Default
+Edge Profile: C:\Users\ban efade\AppData\Local\Microsoft\Edge\User Data\Default [2023-10-17]
+Edge Extension: (AHA Music - Song Finder for Browser) - C:\Users\ban efade\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\ejfccgmelcclnoadalcepdmnpgcnglfc [2023-10-15]
+Edge Extension: (Google Docs Offline) - C:\Users\ban efade\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi [2023-10-17]
+Edge Extension: (Edge relevant text changes) - C:\Users\ban efade\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\jmjflgjpcpepeafmmgdpfkogkghcpiha [2023-10-15]
+Edge Extension: (Shazam: Find song names from your browser) - C:\Users\ban efade\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\mmioliijnhnoblpgimnlajmefafdfilb [2023-10-15]
+
+Chrome: 
+=======
+CHR DefaultProfile: Default
+CHR Profile: C:\Users\ban efade\AppData\Local\Google\Chrome\User Data\Default [2023-10-17]
+CHR Extension: (Chrome Web Store Payments) - C:\Users\ban efade\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda [2023-10-17]
+
+==================== Services (Whitelisted) ===================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+S3 ArmouryLiveUpdate; C:\Windows\System32\DriverStore\FileRepository\rogms.inf_amd64_94d9766656ff6011\ArmouryLiveUpdate.exe [576216 2021-08-30] (ASUSTeK Computer Inc. -> ASUSTeK Computer Inc.)
+R3 EasyAntiCheat; C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe [811496 2023-10-16] (EasyAntiCheat Oy -> Epic Games, Inc)
+S3 EasyAntiCheat_EOS; C:\Program Files (x86)\EasyAntiCheat_EOS\EasyAntiCheat_EOS.exe [943528 2023-10-08] (EasyAntiCheat Oy -> Epic Games, Inc.)
+R2 hshld_12.4.0; C:\Program Files (x86)\Hotspot Shield\12.4.0\bin\cmw_srv.exe [258064 2023-10-03] (Pango LLC -> Pango Inc.)
+R2 MBAMService; C:\Program Files\Malwarebytes\Anti-Malware\MBAMService.exe [9287968 2023-09-30] (Malwarebytes Inc. -> Malwarebytes)
+S3 OverwolfUpdater; C:\Program Files (x86)\Common Files\Overwolf\OverwolfUpdater.exe [2641416 2023-10-03] (Overwolf Ltd -> Overwolf LTD)
+S3 OVRLibraryService; C:\Program Files\Oculus\Support\oculus-librarian\OVRLibraryService.exe [148024 2023-10-14] (Oculus VR, LLC -> Facebook Technologies, LLC)
+R2 OVRService; C:\Program Files\Oculus\Support\oculus-runtime\OVRServiceLauncher.exe [508984 2023-10-14] (Oculus VR, LLC -> Facebook Technologies, LLC)
+S3 Sense; C:\Program Files\Windows Defender Advanced Threat Protection\MsSense.exe [402264 2023-10-11] (Microsoft Windows Publisher -> Microsoft Corporation)
+R2 ServiceUI; C:\Windows\System32\ServiceUI.exe [31744 2023-10-13] () [File not signed]
+R3 WdNisSvc; C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\NisSrv.exe [3116904 2023-09-28] (Microsoft Windows Publisher -> Microsoft Corporation)
+R2 WinDefend; C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\MsMpEng.exe [133584 2023-09-28] (Microsoft Windows Publisher -> Microsoft Corporation)
+R2 NVDisplay.ContainerLocalSystem; C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_8c8de08a85de4474\Display.NvContainer\NVDisplay.Container.exe -s NVDisplay.ContainerLocalSystem -f %ProgramData%\NVIDIA\NVDisplay.ContainerLocalSystem.log -l 3 -d C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_8c8de08a85de4474\Display.NvContainer\plugins\LocalSystem -r -p 30000 -cfg NVDisplay.ContainerLocalSystem\LocalSystem
+
+===================== Drivers (Whitelisted) ===================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+S3 AndnetBus; C:\Windows\System32\drivers\lgandnetbus64.sys [30208 2021-05-26] (Microsoft Windows Hardware Compatibility Publisher -> LG Electronics Inc.)
+S3 AppleKmdfFilter; C:\Windows\System32\drivers\AppleKmdfFilter.sys [20032 2020-10-09] (WDKTestCert build,132303256403278908 -> Apple Inc.)
+S3 AppleLowerFilter; C:\Windows\System32\drivers\AppleLowerFilter.sys [35976 2020-10-09] (WDKTestCert build,132303256403278908 -> Apple Inc.)
+S3 dg_ssudbus; C:\Windows\System32\drivers\ssudbus2.sys [160376 2021-10-08] (Samsung Electronics Co., Ltd. -> Samsung Electronics Co., Ltd.)
+R3 e1dexpress; C:\Windows\System32\DriverStore\FileRepository\e1d.inf_amd64_f3c6513565231a23\e1d.sys [609456 2022-12-05] (Intel Corporation -> Intel Corporation)
+R3 EasyAntiCheatSys; C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.sys [16025592 2023-10-17] (EasyAntiCheat Oy -> EasyAntiCheat Oy)
+R3 hsstap; C:\Windows\System32\drivers\hsstap.sys [39424 2020-09-29] (Microsoft Windows Hardware Compatibility Publisher -> Pango)
+R2 MBAMChameleon; C:\Windows\System32\Drivers\MbamChameleon.sys [222272 2023-10-15] (Microsoft Windows Hardware Compatibility Publisher -> Malwarebytes)
+S0 MbamElam; C:\Windows\System32\DRIVERS\MbamElam.sys [21480 2023-09-30] (Microsoft Windows Early Launch Anti-malware Publisher -> Malwarebytes)
+R3 MBAMSwissArmy; C:\Windows\System32\Drivers\mbamswissarmy.sys [239544 2023-10-17] (Microsoft Windows Hardware Compatibility Publisher -> Malwarebytes)
+S3 mydrivers; C:\Users\ban efade\Desktop\Rec Room Bypass (VER. 3)\Rec Room Bypass (VER. 3)\Rec Room Bypass\Bypass\mydrivers64.sys [91552 2023-06-15] (WDKTestCert yassi,133313151708184027 -> )
+R1 npcap; C:\Windows\system32\DRIVERS\npcap.sys [77336 2022-08-19] (Insecure.Com LLC -> Insecure.Com LLC.)
+S4 npcap_wifi; C:\Windows\system32\DRIVERS\npcap.sys [77336 2022-08-19] (Insecure.Com LLC -> Insecure.Com LLC.)
+R3 oculusvad_oculusvad; C:\Windows\System32\drivers\oculusvad.sys [75280 2023-10-14] (Microsoft Windows Hardware Compatibility Publisher -> Windows (R) Win 7 DDK provider)
+R3 Oculus_ViGEmBus; C:\Windows\System32\drivers\Oculus_ViGEmBus.sys [32856 2023-09-22] (Oculus VR, LLC -> Facebook Inc.)
+R1 pango_netfilter2; C:\Windows\System32\drivers\pango_netfilter2.sys [89088 2023-10-03] (Microsoft Windows Hardware Compatibility Publisher -> Pango Inc)
+R3 ROGMS; C:\Windows\System32\DriverStore\FileRepository\rogms.inf_amd64_94d9766656ff6011\ROGMS.sys [33184 2021-08-30] (ASUSTeK Computer Inc. -> )
+S3 ssbthid; C:\Windows\System32\drivers\ssbthid.sys [43824 2019-02-01] (SteelSeries ApS -> )
+S3 ssudcdf; C:\Windows\System32\drivers\ssudcdf.sys [36608 2014-01-22] (DEVGURU CO LTD -> DEVGURU Co., LTD.(www.devguru.co.kr))
+S3 ssuddmgr; C:\Windows\System32\drivers\ssuddmgr.sys [206080 2014-01-22] (DEVGURU CO LTD -> DEVGURU Co., LTD.(www.devguru.co.kr))
+S3 ssudobex; C:\Windows\System32\drivers\ssudobex.sys [206080 2014-01-22] (DEVGURU CO LTD -> DEVGURU Co., LTD.(www.devguru.co.kr))
+S3 ssudqcfilter; C:\Windows\System32\drivers\ssudqcfilter.sys [65144 2021-10-08] (Samsung Electronics Co., Ltd. -> QUALCOMM Incorporated)
+S3 ssudrmnet; C:\Windows\System32\drivers\ssudrmnet.sys [70400 2014-01-22] (DEVGURU CO LTD -> DEVGURU Co., LTD.)
+S3 ssudserd; C:\Windows\System32\drivers\ssudserd.sys [206080 2014-01-22] (DEVGURU CO LTD -> DEVGURU Co., LTD.(www.devguru.co.kr))
+S3 ss_conn_usb_driver; C:\Windows\System32\Drivers\ss_conn_usb_driver.sys [26368 2014-01-22] (DEVGURU CO LTD -> DEVGURU Co., LTD.)
+S3 USBAAPL64; C:\Windows\System32\Drivers\usbaapl64.sys [54784 2021-08-11] (Microsoft Windows Hardware Compatibility Publisher -> Apple, Inc.)
+S3 VBoxUSB; C:\Windows\System32\Drivers\VBoxUSB.sys [189152 2023-04-17] (Oracle Corporation -> Oracle and/or its affiliates)
+S0 vmci; C:\Windows\System32\drivers\vmci.sys [104888 2022-07-03] (Microsoft Windows Hardware Compatibility Publisher -> VMware, Inc.)
+R3 VOICEMOD_Driver; C:\Windows\system32\drivers\mvvad.sys [48144 2023-08-30] (Voicemod Sociedad Limitada -> Windows (R) Win 7 DDK provider)
+S0 WdBoot; C:\Windows\System32\drivers\wd\WdBoot.sys [55856 2023-09-28] (Microsoft Windows Early Launch Anti-malware Publisher -> Microsoft Corporation)
+R0 WdFilter; C:\Windows\System32\drivers\wd\WdFilter.sys [572712 2023-09-28] (Microsoft Windows -> Microsoft Corporation)
+R3 WdNisDrv; C:\Windows\System32\drivers\wd\WdNisDrv.sys [105872 2023-09-28] (Microsoft Windows -> Microsoft Corporation)
+U4 WinD64; C:\Windows\system32\drivers\WinD64.sys [7168 2023-10-09] () [File not signed]
+U5 WinD64loader; C:\Windows\system32\drivers\WinD64loader.sys [63360 2023-10-09] (Microsoft Windows -> Microsoft Corporation)
+S1 discpzaj; \??\C:\Windows\system32\drivers\discpzaj.sys [X]
+S3 MpKslffa5f5ed; \??\C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{9C307422-910F-40FA-B397-61BDE959F1AA}\MpKslDrv.sys [X]
+
+==================== NetSvcs (Whitelisted) ===================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
